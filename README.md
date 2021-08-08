@@ -13,3 +13,4 @@
 * Funções
 * Classes
 * Desafio do Módulo 4: Validador de CPF.
+##### Extra: Tabuada: Exercicio de fixação da Estrutura de Repetição FOR.

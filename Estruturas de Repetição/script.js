@@ -13,8 +13,3 @@ for (var i = 0; i < 100; i++) {
 
 //
 
-var tabuada = 7;
-
-for(var x = 0; x <= 10; x++) {
-    console.log('Valor de ' + tabuada + ' x ' + x + ' = ' + tabuada * x);
-}

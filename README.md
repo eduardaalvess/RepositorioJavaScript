@@ -14,3 +14,11 @@
 * Classes
 * Desafio do Módulo 4: Validador de CPF.
 ##### Extra: Tabuada: Exercicio de fixação da Estrutura de Repetição FOR.
+
+#### ASSUNTOS ABORTADOS NO MÓDULO 5 (INTERMERIÁRIO):
+
+* Template String
+* Operador Ternário e Arrow Functions
+* Spread
+* Desestruct e Match
+* SPA, PWA e WebComponents.

@@ -1,3 +1,5 @@
+// Módulo 5: Javascript Intermediário || 02 - Operador Ternário e Arrow Functions
+
 let isValid = true;
 
 function verify(isValid) {

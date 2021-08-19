@@ -1,3 +1,5 @@
+// Módulo 5: Javascript Intermediário || 01 - Template String
+
 let nome = 'Eduarda';
 let sobrenome = 'Alves';
 let cidade = 'Recife';

@@ -1,0 +1,1 @@
+// Módulo 5: Javascript Intermediário || 02 - Operador Ternário e Arrow Functions

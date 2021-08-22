@@ -2,7 +2,7 @@
 
 ### Repositório exclusivo para o estudo de JavaScript. Nesse repositório estão alocadas as aulas de JavaScript básico e intermediário do Start Tech - Gama Academy e do curso Formação Básica (JavaScript) do LinkedIn Learning.
 
-##### START TECH
+### START TECH
 
 ### ASSUNTOS ABORTADOS NO MÓDULO 4 (BÁSICO):
 
@@ -23,15 +23,15 @@
 * Desestruct e Match
 * SPA, PWA e WebComponents.
 
-##### LINKEDIN LEARNING
+### LINKEDIN LEARNING
 
-##### - Introdução ao JavaScript
+#### - Introdução ao JavaScript
 
 * O que é JavaScript
 * JavaScript vs Java: Qual a diferença?
 * Explore o panorama do JavaScript
 
-##### - Elementos Básicos do JavaScript
+#### - Elementos Básicos do JavaScript
 
 * Ferramentas e Recursos para desenvolvimento em JavaScript
 * Introdução ao Console Navegador
@@ -39,7 +39,7 @@
 * Adicione JavaScript a um arquivo externo
 * Boas Práticas ao utilizar o Javascript
 
-##### - Manipulação de Dados
+#### - Manipulação de Dados
 
 * Como utilizar variáveis
 * Tipos de Dados que podem ser armazenados em variáveis
@@ -50,7 +50,7 @@
 * Armazene vários itens de uma vez só com arrays (Vetores e Matrizes)
 * Propriedades e Métodos dos Arrays
 
-##### - Funções e Objetos
+#### - Funções e Objetos
 
 * Estruture e Reutilie suas instruções com funções.
 * Crie uma função nomeada básica
@@ -65,7 +65,7 @@
 * Acesse propriedades utilizando as notações dot e bracket
 * Closures
 
-##### - Manipulando Elementos no DOM
+#### - Manipulando Elementos no DOM
 
 * DOM: O Modelo de Objeto de Documento
 * Aja sobre elementos no DOM usando métodos querySelector
@@ -75,9 +75,9 @@
 * Adicione e remova elementos do DOM
 * Aplique CSS em linha a um elemento
 
-##### - Projeto - Relógio Analógico
+#### - Projeto - Relógio Analógico
 
-##### - Manipulando elementos no DOM: Parte 2
+#### - Manipulando elementos no DOM: Parte 2
 
 * O que são os eventos DOM?
 * Eventos que provavelmente vocÊ irá usar
@@ -85,17 +85,17 @@
 * Adicione e use Listeners de Eventos
 * Passe argumentos através de listeners de eventos
 
-##### - Projeto - O Quão Rápido Você Digita?
+#### - Projeto - O Quão Rápido Você Digita?
 
-##### - Laços de Repetição
+#### - Laços de Repetição
 
 * Como usar loops ou laços de repetição
 * Percorrendo arrays com laços de repetição
 * Como usar comands break e continue
 
-##### - Projeto - Trabalhando com Imagens de Forma Responsiva
+#### - Projeto - Trabalhando com Imagens de Forma Responsiva
 
-##### - Troubleshooting, Validação e Minificação
+#### - Troubleshooting, Validação e Minificação
 
 * Validação e Trobleshooting de JavaScript
 * Trobleshooting de JavaScript

@@ -4,7 +4,7 @@
 
 ### START TECH
 
-### ASSUNTOS ABORTADOS NO MÓDULO 4 (BÁSICO):
+#### ASSUNTOS ABORTADOS NO MÓDULO 4 (BÁSICO):
 
 * Números e Operadores
 * Boas Práticas de JavaScript
@@ -15,7 +15,7 @@
 * Desafio do Módulo 4: Validador de CPF.
 ##### Extra: Tabuada: Exercicio de fixação da Estrutura de Repetição FOR.
 
-### ASSUNTOS ABORTADOS NO MÓDULO 5 (INTERMEDIÁRIO):
+#### ASSUNTOS ABORTADOS NO MÓDULO 5 (INTERMEDIÁRIO):
 
 * Template String
 * Operador Ternário e Arrow Functions

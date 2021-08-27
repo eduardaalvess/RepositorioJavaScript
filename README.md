@@ -1,5 +1,6 @@
 # *Repositório JavaScript*
 
+
 ### Repositório exclusivo para o estudo de JavaScript. Nesse repositório estão alocadas as aulas de JavaScript básico e intermediário do Start Tech - Gama Academy e do curso Formação Básica (JavaScript) do LinkedIn Learning.
 
 ### START TECH
